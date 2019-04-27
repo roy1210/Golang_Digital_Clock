@@ -5,7 +5,7 @@ Show current time in terminal.
 ![preview](./clock.gif)
 
 ### Step 1. 
-Clone this project.
+Clone this repository.
 
 ### Step 2. 
 
