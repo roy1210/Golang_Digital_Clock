@@ -1,19 +1,33 @@
-# Digital Clock
+# Digital clock
+
+## Description
 
 Show current time in terminal.
 
-![preview](./clock.gif)
+**_DEMO:_**
 
-### Step 1. 
-Clone this repository.
+<img src="./clock.gif" width="80%">
 
-### Step 2. 
+## Usage
 
-```
-$ cd digitalClock
+Clone repo, cd into folder and run:
 
+```console
 $ run main.go
 ```
 
-### Require
-Install Golang to run this program.
+## Requirement
+
+- golang
+
+## Tools
+
+- github.com/inancgumus/screen
+
+## Licence
+
+[MIT](./LICENSE.txt)
+
+## Author
+
+[Shoe Kure](https://github.com/roy1210)
